@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Colour Merge S106_URN_112640",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Lookup": "112640", "Index": 24224, "Colour Merge S106_URN": 112640, "Colour Merge S106_Index": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.34051667019519, 53.144670670628301 ], [ -1.3410096581968, 53.144867794715402 ], [ -1.34017774466514, 53.145313386249903 ], [ -1.33976007238452, 53.1450238559204 ], [ -1.33975322602612, 53.144910918620504 ], [ -1.34036603533325, 53.144584427921103 ], [ -1.34051667019519, 53.144670670628301 ] ] ] ] } }
+]
+}
